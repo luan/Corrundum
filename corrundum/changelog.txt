@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.50
+Date: 10. 11. 2026
+  Major Features:
+    - Adjusted acid neutralization recipes to be in line with Wube's rebalance. (factor of 10 nerf)
+---------------------------------------------------------------------------------------------------
 Version: 1.0.49
 Date: 8. 13. 2026
   Major Features:

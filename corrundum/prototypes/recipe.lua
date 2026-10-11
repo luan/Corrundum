@@ -172,13 +172,13 @@ hide_from_signal_gui = false,
       ingredients =
       {
         {type ="item", name ="calcite", amount = 1},
-        {type ="fluid", name ="sulfuric-acid", amount = 1000},
+        {type ="fluid", name ="sulfuric-acid", amount = 100},
         {type ="fluid", name ="water", amount = 180},
       },
       energy_required = 5,
       results =
       {
-        {type ="fluid", name ="steam", amount = 12000, temperature = 500}
+        {type ="fluid", name ="steam", amount = 1200, temperature = 500}
       },
       allow_productivity = false,
       always_show_products = true,
@@ -216,12 +216,12 @@ hide_from_signal_gui = false,
       ingredients =
       {
         {type ="item", name ="calcite", amount = 1},
-        {type ="fluid", name ="sulfuric-acid", amount = 1000},
+        {type ="fluid", name ="sulfuric-acid", amount = 100},
       },
       energy_required = 5,
       results =
       {
-        {type ="fluid", name ="steam", amount = 10000, temperature = 500}
+        {type ="fluid", name ="steam", amount = 1000, temperature = 500}
       },
       allow_productivity = false,
       always_show_products = true,
@@ -260,12 +260,12 @@ hide_from_signal_gui = false,
       ingredients =
       {
         {type ="item", name ="calcite", amount = 2},
-        {type ="fluid", name ="sulfuric-acid-dilute", amount = 2000},
+        {type ="fluid", name ="sulfuric-acid-dilute", amount = 200},
       },
       energy_required = 2,
       results =
       {
-        {type ="fluid", name ="water", amount = 2000, temperature = 100}
+        {type ="fluid", name ="water", amount = 200, temperature = 100}
       },
       allow_productivity = false,
       always_show_products = true,
@@ -304,7 +304,7 @@ hide_from_signal_gui = false,
       ingredients =
       {
         {type ="item", name ="calcite", amount = 5},
-        {type ="fluid", name ="sulfuric-acid-dilute", amount = 4000},
+        {type ="fluid", name ="sulfuric-acid-dilute", amount = 400},
       },
       energy_required = 8,
       results =
